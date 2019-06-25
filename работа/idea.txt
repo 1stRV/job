@@ -1,0 +1,91 @@
+﻿
+/wait notify volatile sincronized добить
+/задачи wait notify volatile sincronized 
+
+/sql задачи
+/
+/добить сборщик
+
+/задачи java 
+/задачи spring
+
+Собес:
+sql,hashmap
+/накидать текст для разговора Насте резюмэ
+
+
+/законспектировать hibernate
+/собрать людей на днюху
+
+/иерархия исключений поправить и почему RunTimeException наследуется от Exception и try-with-resources
+
+
+/написать проект с HashMap с эндпойнтами разными сортировками 
+
+/проект Exception с разными эндпойнтами
+
+/проект Java с разными эндпойнтами
+
+/проект Spring
+
+/проект Concurency
+
+/проект Stream
+
+/Optional
+
+/12
+
+
+
+
+/ide
+/confluence
+/написать вопросы mongo и kafka
++/gitlab
++/jdk
+/notepad
+/postman
+/mongo db
+/дкоит Markus Табак и ДКкоит Mongo
+/
+                          
+/
+/
+/
+/
+
+2)насколько быстро работают индексы в mongo 
+3)обновление db ref законсп save,insert вырезать в файл
+4)postgresql поддерживает json почему именно mongo
+5)
+
+/найти 
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
